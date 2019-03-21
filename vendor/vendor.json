@@ -33,6 +33,18 @@
 			"revisionTime": "2017-10-04T17:02:40Z"
 		},
 		{
+			"checksumSHA1": "1BNLPUxkKdL1fPBcD/NuSDGfayk=",
+			"path": "github.com/lib/pq",
+			"revision": "7aad666537ab32b76f0966145530335f1fed51fd",
+			"revisionTime": "2019-03-14T17:36:50Z"
+		},
+		{
+			"checksumSHA1": "AU3fA8Sm33Vj9PBoRPSeYfxLRuE=",
+			"path": "github.com/lib/pq/oid",
+			"revision": "7aad666537ab32b76f0966145530335f1fed51fd",
+			"revisionTime": "2019-03-14T17:36:50Z"
+		},
+		{
 			"checksumSHA1": "ZUOd8OUOp+xdpB7p4w/O86Y8wyc=",
 			"path": "github.com/manucorporat/sse",
 			"revision": "c142f0f1baea5cef7f98a8a6c222f6134368c1f5"
@@ -65,5 +77,5 @@
 			"revision": "d627af88ac021317a280d320986282a6dc97549a"
 		}
 	],
-	"rootPath": "github.com/heroku/go-getting-started"
+	"rootPath": "movieCrawler"
 }
